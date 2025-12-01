@@ -10,14 +10,6 @@ local servers = {
   "lua_ls",
   "angularls",
   "gopls",
-  "gofumpt",
-  "golangci-lint",
-  "golangci-lint-langserver",
-  "golines",
-  "gotests",
-  "gomodifytags",
-  "gci",
-  "delve",
 }
 
 local nvlsp = require "nvchad.configs.lspconfig"
